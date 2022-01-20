@@ -10,7 +10,7 @@
 - [Intensivão de Docker: Parte 02](https://youtu.be/Z4fMBfGb-5c)
 - [Stack Desenvolvedor Expert](https://stack.desenvolvedor.expert/appendix/docker/rede.html)
 
-## **Topicos:**
+
 
 - **Docker Overview**
     
