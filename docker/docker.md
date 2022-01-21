@@ -2,17 +2,8 @@
     <img alt="Docker Image" title="docker Image" src="./img/dockerimg.png" />
 </h1>
 
-### Links Para Referência:
-- [Documentação](https://docs.docker.com/)
-- [Docker Hub](https://hub.docker.com/)
-- [Geekhunter](https://blog.geekhunter.com.br/docker-na-pratica-como-construir-uma-aplicacao/)
-- [Intensivão de Docker-Parte 01](https://youtu.be/xXMQRs-xZi4)
-- [Intensivão de Docker: Parte 02](https://youtu.be/Z4fMBfGb-5c)
-- [Stack Desenvolvedor Expert](https://stack.desenvolvedor.expert/appendix/docker/rede.html)
 
-## **Topicos:**
-
-- **Docker Overview**
+- **Overview**
     
     Um **Container** é a forma de empacotar sua aplicação e suas dependências (bibliotecas) de forma padronizada.
     <br/>
@@ -357,3 +348,12 @@
     O **arquivo de definição** do Docker Compose é o local onde é especificado todo o ambiente (**rede**, **volume** e **serviços**), ele é escrito seguindo o formato [YAML](https://pt.wikipedia.org/wiki/YAML). Esse arquivo por padrão tem como nome [docker-compose.yml](https://docs.docker.com/compose/compose-file/).
     
     - **docker-compose.yml**
+</br>
+### Links Para Referência:
+- [Documentação](https://docs.docker.com/)
+- [Docker Hub](https://hub.docker.com/)
+- [Geekhunter](https://blog.geekhunter.com.br/docker-na-pratica-como-construir-uma-aplicacao/)
+- [Intensivão de Docker-Parte 01](https://youtu.be/xXMQRs-xZi4)
+- [Intensivão de Docker: Parte 02](https://youtu.be/Z4fMBfGb-5c)
+- [Stack Desenvolvedor Expert](https://stack.desenvolvedor.expert/appendix/docker/rede.html)
+
