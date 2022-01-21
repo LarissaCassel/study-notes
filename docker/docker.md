@@ -2,7 +2,6 @@
     <img alt="Docker Image" title="docker Image" src="./img/dockerimg.png" />
 </h1>
 
-
 - **Overview**
     
     Um **Container** é a forma de empacotar sua aplicação e suas dependências (bibliotecas) de forma padronizada.
